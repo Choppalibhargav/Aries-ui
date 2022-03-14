@@ -104,11 +104,10 @@ body {
   .card__details {
     padding: 16px 8px 8px 8px;
   }
-  
-  button:focus,
+
   button:hover {
-    background-color: black;
-    color: red;
+    background-color:red;
+    color:black;
   }
   main{
     display: grid;
