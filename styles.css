@@ -4,7 +4,8 @@ body {
   font-size: 62.5%;
   padding: 0;
   margin: 0;
-  background-color: red;
+  background-color: #fff;
+  color: black;
 }
 
 .header {
@@ -74,7 +75,7 @@ img {
 }
 
 .card {
-  background-color: white;
+  background-color:red;
   border-radius: 10px;
   display: flexbox;
 }
@@ -86,7 +87,7 @@ img {
 
 p {
   font-size: 14px;
-  color: #7f8c9b;
+  color:#fff;
   line-height: 150%;
 }
 
