@@ -31,6 +31,9 @@ body {
   gap: 20px;
 
 }
+.dark-btn{
+  background-color: red;
+}
 
 .header__nav {
   margin-left: auto;
@@ -45,6 +48,10 @@ body {
 
 .header__nav a {
   padding: 8px;
+}
+.dark-mode {
+  background-color: black;
+  color: white;
 }
 
 .Square {
@@ -107,7 +114,7 @@ button {
 
 button:focus,
 button:hover {
-  background-color: black;
+  background-color: white;
   color: red;
 }
 
