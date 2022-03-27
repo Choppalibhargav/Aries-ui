@@ -46,6 +46,13 @@ body {
 .header__nav a {
   padding: 8px;
 }
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+.dark-btn{
+  background-color: red;
+}
 
 .Square {
   display: grid;
@@ -107,7 +114,7 @@ button {
 }
 
 button:hover {
-  background-color: red;
+  background-color: white;
   color: black;
 }
 
